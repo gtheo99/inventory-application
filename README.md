@@ -9,8 +9,7 @@
 * 	 kevowahome@gmail.com                                                          *
 * ---------------------------------------------------------------------------------*
 **
-* A simple Angular JS application showing how to include it in your web project and
-* calling basic directives
+* A simple PHP,HTML and JavaScript web based inventory application
 **
 * ---------------------------------------------------------------------------------*
 */
